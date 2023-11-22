@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Net Film!</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_film">Cari Film Favoritmu</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_app">Daftar Film</string>\
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_home">Film List</string>
+    <string name="icon_back">Back</string>
+    <string name="icon_search">Search</string>
+    <string name="error">Error! Please Back Again</string>
+    <string name="back">back</string>
+    <string name="error_message">Ups..Something Wrong!</string>
+</resources>
